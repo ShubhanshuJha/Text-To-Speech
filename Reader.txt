@@ -1,0 +1,5 @@
+I'm a sample text file that is used for the testing of Text To Speech program in Python.
+This is the second line of the text file.
+The format of the file is .txt i.e. this is a text file. Ending the sample file now.
+Have a nice day.
+Thank you.
